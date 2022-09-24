@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "homepage": "YOUR_REPOSITORY_HERE",
+  "homepage": "https://github.com/aminrzaei/nextjs-fullstack-app-template",
   "engines": {
     "node": ">=14.0.0",
     "yarn": ">=1.22.0",
